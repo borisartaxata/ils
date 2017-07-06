@@ -14,6 +14,8 @@ namespace ConsoleApp4
 			int balance = 100000;
 			int balance1 = balance;
 
+			//sssss
+
 			ArrayList D = new ArrayList();
 			int x = 1;
 
